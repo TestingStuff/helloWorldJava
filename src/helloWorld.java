@@ -10,6 +10,7 @@ public static void main(String[] args) {
 		
 	System.out.println("Hello world!\n New line");
 	System.out.println("Hello world!!");
+	System.out.println("Thomas");
 	int x = 10;
 	while( x < 12 ) {
 		System.out.print("value of x : " + x );
